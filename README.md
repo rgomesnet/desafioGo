@@ -41,3 +41,8 @@ Exemplo de saída esperada:
 ```bash
 Full Cycle Rocks!!
 ```
+
+## A imagem gerada no DockerHub é a: 
+    rgomesnet/fullcyclerocks:latest
+## O link da imagem é a:
+    https://hub.docker.com/repository/docker/rgomesnet/fullcyclerocks
